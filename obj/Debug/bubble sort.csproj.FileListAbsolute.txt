@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section 8\bubble sort\bin\Debug\bubble sort.exe.config
+E:\my details\personal\c sharp\ assigned projects\section 8\bubble sort\bin\Debug\bubble sort.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\bubble sort\bin\Debug\bubble sort.pdb
+E:\my details\personal\c sharp\ assigned projects\section 8\bubble sort\obj\Debug\bubble sort.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\bubble sort\obj\Debug\bubble sort.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\bubble sort\obj\Debug\bubble sort.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\bubble sort\obj\Debug\bubble sort.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\bubble sort\obj\Debug\bubble sort.pdb
